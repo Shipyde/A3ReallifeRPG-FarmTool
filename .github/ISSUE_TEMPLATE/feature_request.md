@@ -1,9 +1,7 @@
 ---
 name: Feature request
 about: Erzähl uns deine Idee
-title: ''
 labels: User Feature
-assignees: ''
 
 ---
 
